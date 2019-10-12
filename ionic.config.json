@@ -1,0 +1,7 @@
+{
+  "name": "tripluka",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

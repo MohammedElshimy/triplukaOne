@@ -1,0 +1,42 @@
+
+img {
+  width: 50%;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  height: 50px;
+}
+.image-container {
+    height: 50vh;
+    background-color: gray
+}
+button.button-native{
+
+    background-color: #f53;
+    border-radius: 20px;
+    width: 100%;
+    line-height: 2.7;
+    color: #fff;
+    letter-spacing: 1.2px;
+    font-size: 14px;
+}
+button.main_color_facebook{
+  background-color: #3b5998;
+  border-radius: 20px;
+  width: 100%;
+  line-height: 2.7;
+  color: #fff;
+  letter-spacing: 1.2px;
+  font-size: 14px;
+}
+ion-icon{
+  width:16px;
+  height: 16px;
+  vertical-align: middle;
+}
+ion-button{
+  border: 1px solid #f53;
+  border-radius: 20px;
+  color: #f53;
+}
